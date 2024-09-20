@@ -28,6 +28,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🌤 [Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb) | Time-series analysis | In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. | pandas, matplotlib |
 | 🛍 [Super Store Analysis](https://github.com/Consciousgt/Portfolio/blob/main/Python/Spark%20Foundation%20Internship/Super_Store_Analysis.ipynb) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | pandas, matplotlib, seaborn |
 | 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/Consciousgt/Portfolio/blob/main/Python/Google%20Data%20Analytics%20Capstone/bellabeat-data-analysis.ipynb) | EDA | Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt. | pandas, matplotlib, seaborn |
+|[Others](https://github.com/Consciousgt/Portfolio/tree/main/Python/Worked_Examples)|Web scrapping, Data Wrangling & EDA|Projects|-|
 
 ***
 
